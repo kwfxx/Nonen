@@ -1,7 +1,7 @@
 from requests import post as pp, get as gg;import random;import re;from user_agent import generate_user_agent as uu;import json;from uuid import uuid4;import time;from cfonts import render;import sys;import base64;import requests;import os;from concurrent.futures import ThreadPoolExecutor;from rich.console import Console;from rich.live import Live;import string;from threading import Thread;from asmix import Instagram;import threading
 import webbrowser
 
-url = "https://www.instagram.com/kwfxx"
+url = "https://www.instagram.com/sir.ethin"
 
 webbrowser.open(url)
 
